@@ -1,0 +1,36 @@
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\Space Game.exe.config
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\Space Game.exe
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\Space Game.pdb
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.csprojResolveAssemblyReference.cache
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space_Game.Scene.resources
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space_Game.Properties.Resources.resources
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.csproj.GenerateResource.cache
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.csproj.CoreCompileInputs.cache
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.exe
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.pdb
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\ship.png
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\obj\Debug\Space Game.csproj.ResolveComReference.cache
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\asteroid1.png
+C:\Users\Evgheni\Desktop\Programming\C# Projects\Space Game\Space Game\Space Game\bin\Debug\asteroid2.png
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\asteroid1.png
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\asteroid2.png
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\ship.png
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\Space Game.exe.config
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\Space Game.exe
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\Space Game.pdb
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Влад\Desktop\Space Game\Space Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.csproj.ResolveComReference.cache
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space_Game.Scene.resources
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space_Game.Properties.Resources.resources
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.exe
+C:\Users\Влад\Desktop\Space Game\Space Game\obj\Debug\Space Game.pdb
